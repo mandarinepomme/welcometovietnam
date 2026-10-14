@@ -20,6 +20,6 @@ Je n'ai pas l'occasion d'aller au Việt Nam :pensive:, existe-t-il une solution
 
 [Vous pouvez toujours voyager à travers la musique !](pages/pagetrois.md)
 
-## Au plaisir de vous voir au Việt Nam ! :wave:
+## Au plaisir de vous voir au Việt Nam ! 
 
 ![À la revoyure](images/seeyou.png)
