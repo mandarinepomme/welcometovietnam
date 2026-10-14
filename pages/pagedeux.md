@@ -1,12 +1,10 @@
 # De quoi vous donner l'eau à la bouche 🤤
 
-[Accueil](index.md)
-
 ![Nourriture Vietnamienne](pics/foodvn.jpg)
 
 **1. Phở**
 
-<img align=left src=pics/pho.jpg width="250"> Le phở est une spécialité vietnamienne célébrée dans le monde entier. Elle varie selon les régions. Dans le sud, elle est plus douce, avec des épices comme le clou de girofle et la coriandre, tandis que dans le nord, d'où le phở est originaire en tant que plat national du Vietnam, on savoure une version plus épicée avec des nouilles plus larges.
+[Pho bo](pics/pho.jpg =950x471) Le phở est une spécialité vietnamienne célébrée dans le monde entier. Elle varie selon les régions. Dans le sud, elle est plus douce, avec des épices comme le clou de girofle et la coriandre, tandis que dans le nord, d'où le phở est originaire en tant que plat national du Vietnam, on savoure une version plus épicée avec des nouilles plus larges.
 
 Le phở séduit par sa simplicité : un mélange de bouillon, de nouilles de riz et d'herbes fraîches qui réchauffe l'âme et le corps. À l'origine, les travailleurs des rizières du nord du pays le mangeaient au petit-déjeuner. Aujourd'hui, le phở se déguste à toute heure de la journée, que ce soit dans la rue ou dans les restaurants haut de gamme.
 
@@ -67,5 +65,3 @@ Le chè ba màu est un dessert visuellement attrayant et délicieux, offrant une
 Et bon appétit bien sûr !
 
 Source: [Tourlane](https://www.tourlane.fr/asie/vietnam/specialites-culinaires/)
-
-[Accueil](index.md)
