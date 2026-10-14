@@ -17,7 +17,7 @@ L'accompagnement repose sur des instruments traditionnels vietnamiens spécifiqu
 À travers ce style musical, vous retrouverez des histoires et des sentiments forts, qui vous feront vous sentir presque bouleversé. Fermez les yeux, et vous vous retrouverez immédiatement au Việt Nam. 
 Ce style peut ne pas plaire à tout le monde, mais il est particulièrement important dans la culture musicale Vietnamienne.
 
-![cai luong](pics/cailoung.jpg)
+![cai luong](pics/cailuong.jpg)
 
 N'hésiter pas à essayer, [ça](https://www.youtube.com/watch?v=p1Ws6V8aA5c) ne peut pas vous faire de mal. 😉
 
