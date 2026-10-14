@@ -8,12 +8,12 @@ Il existe différents styles musicaux au Việt Nam, de quoi satisfaire n'import
 
 Tuồng cải-lương ( peut signifier «théâtre réformé») est une forme d'opéra folklorique moderne au Viêt-Nam. Cet art mêle des chants folkloriques du Sud du Viêt-Nam, de la musique classique, du tuồng (forme de théâtre classique inspirée de l'opéra chinois) et du théâtre parlé moderne. 
 L'accompagnement repose sur des instruments traditionnels vietnamiens spécifiques :
-	• La cithare à seize cordes (Đàn tranh)
-	• Le monocorde (Đàn bầu)
-	• Le luth à long manche (Đàn kim)
-	• La vièle à deux cordes (Đàn cò)
-	• La flûte en bambou (Sáo)
-	• Des guitares modernes modifiées avec des frettes creuses pour permettre des effets de vibrato particuliers.
+- La cithare à seize cordes (Đàn tranh)
+- Le monocorde (Đàn bầu)
+- Le luth à long manche (Đàn kim)
+- La vièle à deux cordes (Đàn cò)
+- La flûte en bambou (Sáo)
+- Des guitares modernes modifiées avec des frettes creuses pour permettre des effets de vibrato particuliers.
 À travers ce style musical, vous retrouverez des histoires et des sentiments forts, qui vous feront vous sentir presque bouleversé. Fermez les yeux, et vous vous retrouverez immédiatement au Việt Nam. 
 Ce style peut ne pas plaire à tout le monde, mais il est particulièrement important dans la culture musicale Vietnamienne.
 
