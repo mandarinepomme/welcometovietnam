@@ -1,8 +1,8 @@
 # Welcome to Việt Nam
 
-  <img src=images/flagvn.png width="350">
+![Drapeau Vietnamien](images/flagvn.png)
 
-<p align=center> Envie d'en savoir plus sur ce beau pays ? Alors vous êtes au bon endroit !
+Envie d'en savoir plus sur ce beau pays ? Alors vous êtes au bon endroit !
 
 En fait bref
 
