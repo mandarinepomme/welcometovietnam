@@ -40,7 +40,7 @@ Vous trouverez le cha ca plutôt dans les restaurants que dans la rue et il est 
   
 **7. Bò kho**
 
-<img align=left src=pics/bokho.jpg width="200"> Le bò kho est un ragoût qui se prépare en faisant mijoter des jarrets de bœuf dans un bouillon à base d'eau de noix de coco, de citronnelle, de gingembre, de cannelle et d'anis étoilé. Ce plat vietnamien typique ressemble à une chaleureuse étreinte venue du sud du Vietnam.
+<img align=left src=pics/bokho.jpg width="175"> Le bò kho est un ragoût qui se prépare en faisant mijoter des jarrets de bœuf dans un bouillon à base d'eau de noix de coco, de citronnelle, de gingembre, de cannelle et d'anis étoilé. Ce plat vietnamien typique ressemble à une chaleureuse étreinte venue du sud du Vietnam.
 
 On ajoute parfois des carottes, des navets ou des pommes de terre au ragoût avant de le servir avec du riz ou des nouilles et, bien sûr, avec une baguette vietnamienne croustillante. Cette dernière absorbe parfaitement le délicieux bouillon et fait de ce ragoût un plat idéal pour les jours plus frais. Garni de basilic thaï, de citron vert, de germes de haricots mungo et de coriandre, le bò kho est un incontournable parmi les spécialités vietnamiennes.
   
