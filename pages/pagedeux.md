@@ -1,6 +1,6 @@
 # De quoi vous donner l'eau à la bouche 🤤
 
-![Nourriture Vietnamienne](images/foodvn.jpg)
+![Nourriture Vietnamienne](pics/foodvn.jpg)
 
 **1. Phở**
 
