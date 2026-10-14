@@ -14,6 +14,7 @@ L'accompagnement repose sur des instruments traditionnels vietnamiens spécifiqu
 - La vièle à deux cordes (Đàn cò)
 - La flûte en bambou (Sáo)
 - Des guitares modernes modifiées avec des frettes creuses pour permettre des effets de vibrato particuliers.
+
 À travers ce style musical, vous retrouverez des histoires et des sentiments forts, qui vous feront vous sentir presque bouleversé. Fermez les yeux, et vous vous retrouverez immédiatement au Việt Nam. 
 Ce style peut ne pas plaire à tout le monde, mais il est particulièrement important dans la culture musicale Vietnamienne.
 
