@@ -58,11 +58,9 @@ Ces raviolis, servis avec une sauce à tremper sucrée, se composent de deux var
   
   **10. Chè ba màu**
 
-<img align=left src=pics/chebamau.jpg width="150"> Le chè ba màu, également connu sous le nom de « dessert tricolore », est un incontournable de tout voyage culinaire au Vietnam. Présenté en couches dans un verre haut, il se compose de pâte de haricots mungo jaunes, de haricots rouges et de gelée de pandan verte, le tout complété par de la crème de coco et de la glace pilée. Une fois mélangés, ces ingrédients offrent un dessert étonnamment croquant et rafraîchissant, très apprécié lors des chaudes journées tropicales. On le trouve partout, sur les marchés comme sur les stands de rue. 
+<img align=left src=pics/chebamau.jpg width="125"> Le chè ba màu, également connu sous le nom de « dessert tricolore », est un incontournable de tout voyage culinaire au Vietnam. Présenté en couches dans un verre haut, il se compose de pâte de haricots mungo jaunes, de haricots rouges et de gelée de pandan verte, le tout complété par de la crème de coco et de la glace pilée. Une fois mélangés, ces ingrédients offrent un dessert étonnamment croquant et rafraîchissant, très apprécié lors des chaudes journées tropicales. On le trouve partout, sur les marchés comme sur les stands de rue. 
 
 Le chè ba màu est un dessert visuellement attrayant et délicieux, offrant une grande variété de textures et de saveurs.
-
-
 
 Et bon appétit bien sûr !
 
