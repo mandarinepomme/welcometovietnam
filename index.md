@@ -2,7 +2,7 @@
 
   <img src=images/flagvn.png width="350">
 
-Envie d'en savoir plus sur ce beau pays ? Alors vous êtes au bon endroit !
+<p align=center> Envie d'en savoir plus sur ce beau pays ? Alors vous êtes au bon endroit !
 
 En fait bref
 
