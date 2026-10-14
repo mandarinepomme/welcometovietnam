@@ -19,7 +19,7 @@ Ce style peut ne pas plaire à tout le monde, mais il est particulièrement impo
 
 ![cai luong](pics/cailuong.jpg)
 
-N'hésiter pas à essayer, [ça](https://www.youtube.com/watch?v=p1Ws6V8aA5c) ne peut pas vous faire de mal. 😉
+[N'hésiter pas à essayer,](https://www.youtube.com/watch?v=p1Ws6V8aA5c) ça ne peut pas vous faire de mal. 😉
 
 **2. Le Boléro Vietnamien**
 
@@ -28,7 +28,7 @@ Vous trouverez sûrement ce style plus facile à écouté que le cải-lương e
 
 ![boléro](pics/bolerovn.jpeg)
 
-Venez par [ici](https://www.youtube.com/watch?v=mnMaWQMGI1o&list=RDmnMaWQMGI1o&start_radio=1) si vous souhaitez écouter quelques classiques.
+[Venez par ici](https://www.youtube.com/watch?v=mnMaWQMGI1o&list=RDmnMaWQMGI1o&start_radio=1) si vous souhaitez écouter quelques classiques.
 
 **3. Vinahouse**
 
@@ -37,4 +37,4 @@ Si vous n'avez toujours pas été convaincu par les style précédant, ou que vo
 
 ![vinahouse](pics/vinahouse.jpg)
 
-La Vinahouse est maintenant partout au Việt Nam, où que vous alliez, vous serez sûr d'en entendre autour de vous; magasins, centres commerciaux, cafés, etc. C'est [le style parfait](https://www.youtube.com/watch?v=uxAH4t6p1RQ&list=RDuxAH4t6p1RQ&start_radio=1) pour voyager à moindre prix.
+La Vinahouse est maintenant partout au Việt Nam, où que vous alliez, vous serez sûr d'en entendre autour de vous; magasins, centres commerciaux, cafés, etc. [C'est le style parfait](https://www.youtube.com/watch?v=uxAH4t6p1RQ&list=RDuxAH4t6p1RQ&start_radio=1) pour voyager à moindre prix.
