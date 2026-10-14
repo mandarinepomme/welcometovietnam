@@ -31,6 +31,8 @@ Servi dans des feuilles de salade, avec des herbes telles que la menthe et la co
 Originaire du centre du Vietnam, le mì Quảng est connu pour ses nouilles jaunes et ses accompagnements variés. Considéré comme le plus grand concurrent du pho, il contient du bouillon, des oignons nouveaux, de la salade, des fleurs de bananier, des protéines comme le bœuf, le porc ou les crevettes.
 
 On l'accompagne de curcuma, d'œufs de caille, de cacahuètes, de légumes ou de crackers de riz. Cette spécialité vietnamienne combine le meilleur de la soupe et de la salade. On la sert dans tout le Vietnam dans une grande variété de variations. Une combinaison harmonieuse des cinq éléments et un must pour tous ceux qui veulent découvrir la cuisine vietnamienne.
+
+![Paysage Vietnamien](pics/paysagevn.jpg)
   
 **6. Chả cá Lã Vọng**
 
